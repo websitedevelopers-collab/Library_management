@@ -46,8 +46,8 @@ Follow these steps to upload your project to GitHub:
 
 ```
 /Library-Management-SQL
-    ├── project1.sql
-    ├── Riyasql.sql
+    ├── library management.sql
+    ├── insert queries library management.sql
     ├── README.md
     └── ERD.png
 ```
@@ -110,7 +110,6 @@ git push -u origin main
 Enter your GitHub credentials or token if prompted. After this, your project will be live on GitHub!
 
 ---
-
 
 ## ✅ Final Result
 
