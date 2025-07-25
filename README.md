@@ -31,8 +31,8 @@ The project includes a comprehensive Entity Relationship Diagram (ERD) showcasin
 
 ### 📦 Files Included
 
-* `project1.sql` – Main schema and table creation
-* `Riyasql.sql` – Sample data inserts
+* `library management.sql` – Main schema and table creation
+* `insert queries library management.sql` – Sample data inserts
 * `README.md` – Documentation
 * `ERD.png` – Entity Relationship Diagram (optional but recommended)
 
